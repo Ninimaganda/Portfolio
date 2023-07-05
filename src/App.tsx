@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { BsStars } from "react-icons/bs";
 import { FaMapLocationDot } from "react-icons/fa6";
 import { AiFillLinkedin, AiFillFileText } from "react-icons/ai";
