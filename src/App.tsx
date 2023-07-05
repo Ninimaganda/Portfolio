@@ -8,7 +8,6 @@ import logo from "./assets/logo.jpg";
 import cv from "./assets/cv.jpg";
 
 function App() {
-  const [count, setCount] = useState(0);
 
   return (
     <>
